@@ -285,15 +285,15 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.2em;
+    font-size: 2rem;
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size:1.4rem;
   }
 
   .nine p {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: lighter;
   }
 }
