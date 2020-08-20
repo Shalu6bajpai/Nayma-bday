@@ -125,7 +125,7 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -35px;
+  top: -45px;
   left: 41.5%;
   /* transform: scale(0.1); */
 }
@@ -211,7 +211,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 1em;
   margin: 0;
   text-transform: uppercase;
 }
@@ -223,7 +223,7 @@ body {
 }
 
 .nine p {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: lighter;
 }
 
